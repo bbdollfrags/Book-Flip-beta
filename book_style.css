@@ -31,7 +31,7 @@ body {
 
 
 .flipbook .page {
-    background: #ffffff;
+    background: #cccccc;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
